@@ -22,6 +22,6 @@ Target women customers in the age group of 30-49 years living in Maharashtra, Ka
 
 To clone this repository, use the following command:
 
-\`\`\`bash
+```bash
 git clone https://github.com/arvind-kumar-anand/Excel_Data_Analysis.git
-\`\`\`
+```
