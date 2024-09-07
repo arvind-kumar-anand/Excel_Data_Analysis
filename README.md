@@ -7,16 +7,16 @@ This project focuses on developing a comprehensive Excel-based sales analysis re
 - **Sales Data Analysis**: Developed a detailed sales analysis report, focusing on:
   - Top cities contributing to sales
   - Order vs sales performance
-  - Comparison of sales data between men and women customers
+  - Comparison of sales data between men and women customers (~65% of the sales are made by women, highlighting the importance of targeting female customers).
 - **Data Visualizations**: Created visualizations, including:
   - **Pie Chart**: To represent order states and their distribution.
-  - **Age Group Sales**: To uncover key trends in purchasing behavior across different age groups.
-  
+  - **Age Group Sales**: To uncover key trends in purchasing behavior across different age groups (~50% of the sales are contributed by the adult age group of 30-49 years, making them the primary target demographic).
+
 ## Key Insights & Recommendations
-- **Sales Channel Comparison**: Compared sales across different channels, such as Amazon, Flipkart, and Myntra, and evaluated order completion rates.
+- **Sales Channel Comparison**: Compared sales across different channels, such as Amazon, Flipkart, and Myntra, which contribute ~80% of the total sales, making them the most important platforms for marketing and sales efforts.
 - **Order vs Sales Evaluation**: Analyzed the relationship between orders placed and actual sales completed, leading to insights on improving order fulfillment.
 - **Strategic Recommendations**: Provided actionable strategies based on data-driven insights, including:
-  - Targeting women aged 30-49 in **Maharashtra**, **Karnataka**, and **Uttar Pradesh** through tailored marketing campaigns on Amazon, Flipkart, and Myntra.
+  - Targeting women aged 30-49 in **Maharashtra**, **Karnataka**, and **Uttar Pradesh** (~35% of total sales come from these top three states) through tailored marketing campaigns on Amazon, Flipkart, and Myntra.
   
 ## Tools & Techniques
 - **Excel Tools**: Used advanced Excel functionalities, such as:
@@ -24,6 +24,12 @@ This project focuses on developing a comprehensive Excel-based sales analysis re
   - **Pie Charts**: To visualize the distribution of order states.
   - **Bar and Line Charts**: To represent trends in sales performance.
 - **Data Manipulation**: Performed data cleaning, aggregation, and manipulation to ensure accurate insights.
+
+## Important Insights:
+1. Women are more likely to buy compared to men (~65% of total sales).
+2. Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (~35% of total sales).
+3. The adult age group (30-49 years) is the maximum contributor (~50% of total sales).
+4. Amazon, Flipkart, and Myntra channels are the biggest contributors (~80% of total sales).
 
 ## Usage
 This Excel-based analysis report can be used to:
