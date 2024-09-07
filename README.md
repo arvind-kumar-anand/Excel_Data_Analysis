@@ -1,4 +1,4 @@
-echo "# Vrinda Store Sales Insights
+## Vrinda Store Sales Insights
 
 ## Important Insights:
 
